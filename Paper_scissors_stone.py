@@ -1,3 +1,8 @@
+#
+# Author: Diane
+# Create on: 2022/3/30
+#
+
 import random
 
 mora_dict = {
